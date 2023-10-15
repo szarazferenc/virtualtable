@@ -18,7 +18,7 @@ circles = cv2.HoughCircles(
     minDist=20,            # Minimum távolság két kör között
     param1=50,             # Canny élek paraméter
     param2=30,             # A Hough transzformáció küszöbértéke
-    minRadius=10,          # Minimum kör sugara
+    minRadius=5,          # Minimum kör sugara
     maxRadius=100          # Maximum kör sugara
 )
 
