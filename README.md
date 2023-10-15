@@ -1,2 +1,2 @@
-# virtualtable
-Bartha Vince Döme - Konzulensi feladatok
+# Vince_python
+ Bartha Vince Döme - konzulensi feladatok
